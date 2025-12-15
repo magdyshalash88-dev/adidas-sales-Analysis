@@ -70,4 +70,5 @@ The dashboard is fully interactive and updates dynamically using **Excel Pivot T
 - Entry-to-mid level data analysis demonstration
 
 ## Dashboard
-<img width="1246" height="637" alt="Image" src="https://github.com/user-attachments/assets/550acb9d-73dd-4df8-8817-07c53e5eb33d"
+<img width="1246" height="637" alt="Dashboard" src="https://github.com/user-attachments/assets/6d64d8cd-d899-460a-802c-3dffc0a6f89f" />
+
